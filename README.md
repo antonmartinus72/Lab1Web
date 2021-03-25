@@ -20,6 +20,7 @@ Keseluruhan html masih terlihat kosong namun pada baris 4 terdapat tag `<title>`
 
 ## Heading pada HTML
 Heading pada html dapat dijadikan sebagai judul topik atau pembahasan.
+
 ![screenshoot](https://github.com/antonmartinus72/Lab1Web/raw/main/img/2.jpg)
 
 Jika diperhatikan setiap heading memiliki ukuran font yang berbeda. Ukuran ini adalah ukuran default yang diterapkan html.
@@ -33,6 +34,7 @@ Dapat dilihat di bawah ***Heading 6*** terdapat garis horizontal, garis ini meng
 ![code](https://github.com/antonmartinus72/Lab1Web/raw/main/img/3.jpg)
 
 Di bawah garis`<hr>` terdapat tag `<p>...</p>` yang digunakan untuk membuat sebuah paragraf. 
+
 ![code](https://github.com/antonmartinus72/Lab1Web/raw/main/img/3_code.jpg)
 
 Parafgraf `<p>...</p>` juga dapat menggunakan atribut berikut :
@@ -135,6 +137,7 @@ Value dari atribut `title` dapat tampil jika kita meletakan kursor di atas gamba
 ## Image sebagai Hyperlink
 
 Gambar yang ditampilkan pada halaman html juga dapat berfungsi sebagai hyperlink.
+
 ![ss](https://github.com/antonmartinus72/Lab1Web/raw/main/img/9.jpg)
 
 Dengan memilih salah satu gambar di atas, kita akan di arahkan ke website yang telah di definisikan pada atribut `href` berikut :
