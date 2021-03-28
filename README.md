@@ -1,5 +1,6 @@
 
 
+
 # Praktikum Pemrograman Web 1
 Praktikum pemrograman web pertemuan 3.
 
@@ -53,7 +54,7 @@ Parafgraf `<p>...</p>` juga dapat menggunakan atribut berikut :
 
 **Atribut `align="justify"`.**
 
-(https://github.com/antonmartinus72/Lab1Web/raw/main/img/3d.jpg)
+![ss](https://github.com/antonmartinus72/Lab1Web/raw/main/img/3d.jpg)
 
 Jika di bandingkan, ketiganya membentuk posisi yang berbeda. Untuk paragraf tanpa atribut `align` jika dibandingkan dengan menggunakan atribut dengan value`align="left"` tidak terlihat perbedaan apapun. Ini karena nilai default untuk tag `<p>...</p>` terlihat sama hasilnya seperti atribut value `align="left"`.
 
