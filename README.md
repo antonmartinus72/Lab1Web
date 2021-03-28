@@ -167,7 +167,7 @@ Berdasarkan hasil validasi file html **lab1_tag_dasar.html** pada website http:/
 
 ![code](https://github.com/antonmartinus72/Lab1Web/raw/main/img/11.jpg)
 
-Selain itu validator juga menyarankan untuk memakai CSS untuk pada atribut `align` dengan alasan penggunaan atribut tersebut dinilai usang.
+Selain itu validator juga menyarankan untuk memakai CSS pada atribut `align` dengan alasan penggunaan atribut tersebut dinilai usang.
 
 
 ## Terimakasih.
