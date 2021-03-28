@@ -99,6 +99,9 @@ Hyperlink atau biasa di sebut "*link*" merupakan elemen yang dapat dipakai untuk
 ![ss](https://github.com/antonmartinus72/Lab1Web/raw/main/img/7.jpg)
 
 Dapat dilihat pada bagian sudut kanan bawah pada gambar diatas. Terdapat alamat website yang muncul pada browser (Chrome). Alamat ini muncul ketika kursor menyentuh link yang ada pada browser tersebut. Link ini yang akan mengantarkan kita ke alamat yang ada pada link.
+![ss](https://github.com/antonmartinus72/Lab1Web/raw/main/img/7a.jpg)
+
+Gambar di atas menunjukan hyperlink untuk mengakses file lokal juga berhasil dilakukan.
 
 ![code](https://github.com/antonmartinus72/Lab1Web/raw/main/img/7_code.jpg)
 
@@ -144,3 +147,12 @@ Dengan memilih salah satu gambar di atas, kita akan di arahkan ke website yang t
 
 ![code](https://github.com/antonmartinus72/Lab1Web/raw/main/img/9_code.jpg)
 
+## Percobaan Atribut Target pada Hyperlink
+
+Penulisan value `_blank`, `_self`, `_top`, `_parent` pada atribut `target` :
+
+![code](https://github.com/antonmartinus72/Lab1Web/raw/main/img/10_code.jpg)
+
+ - `_blank` : Saat menggunakan atribut `target` dengan value `_blank`  terjadi pembukaan tab baru yang menuju alamat yang sudah di definisikan pada link.
+ - `_self` : Terjadi pungunjungan link pada tab yang saat ini dibuka. Sama seperti membuka link tanpa menggunakan atribut `target`.
+ - `_top` dan `_parent` : Sama seperti yang terjadi pada penggunaan value `_self`. Berdasarkan penelusuran, value `_top` dan `_parent` dapat bekerja pada html yang menggunakan tag `<iframe>`.
