@@ -163,7 +163,7 @@ Penulisan value `_blank`, `_self`, `_top`, `_parent` pada atribut `target` :
  
 ## Hasil Validasi File HTML dengan Menggunakan Website http://validator.w3.org.
 
-Berdasarkan hasil validasi file html **lab1_tag_dasar.html**, validator menyarankan untuk menggunakan tag `lang="id"` atau variasinya.
+Berdasarkan hasil validasi file html **lab1_tag_dasar.html** pada website http://validator.w3.org, validator menyarankan untuk menggunakan tag `lang="id"` atau variasinya.
 
 ![code](https://github.com/antonmartinus72/Lab1Web/raw/main/img/11.jpg)
 
