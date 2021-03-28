@@ -51,6 +51,10 @@ Parafgraf `<p>...</p>` juga dapat menggunakan atribut berikut :
 
 ![ss_center](https://github.com/antonmartinus72/Lab1Web/raw/main/img/3c.jpg)
 
+**Atribut `align="justify"`.**
+
+(https://github.com/antonmartinus72/Lab1Web/raw/main/img/3d.jpg)
+
 Jika di bandingkan, ketiganya membentuk posisi yang berbeda. Untuk paragraf tanpa atribut `align` jika dibandingkan dengan menggunakan atribut dengan value`align="left"` tidak terlihat perbedaan apapun. Ini karena nilai default untuk tag `<p>...</p>` terlihat sama hasilnya seperti atribut value `align="left"`.
 
 ## Preformatted Text.
@@ -156,3 +160,14 @@ Penulisan value `_blank`, `_self`, `_top`, `_parent` pada atribut `target` :
  - `_blank` : Saat menggunakan atribut `target` dengan value `_blank`  terjadi pembukaan tab baru yang menuju alamat yang sudah di definisikan pada link.
  - `_self` : Terjadi pungunjungan link pada tab yang saat ini dibuka. Sama seperti membuka link tanpa menggunakan atribut `target`.
  - `_top` dan `_parent` : Sama seperti yang terjadi pada penggunaan value `_self`. Berdasarkan penelusuran, value `_top` dan `_parent` dapat bekerja pada html yang menggunakan tag `<iframe>`.
+ 
+## Hasil Validasi File HTML dengan Menggunakan Website http://validator.w3.org.
+
+Berdasarkan hasil validasi file html **lab1_tag_dasar.html**, validator menyarankan untuk menggunakan tag `lang="id"` atau variasinya.
+
+![code](https://github.com/antonmartinus72/Lab1Web/raw/main/img/11.jpg)
+
+Selain itu validator juga menyarankan untuk memakai CSS untuk pada atribut `align` dengan alasan penggunaan atribut tersebut dinilai usang.
+
+
+## Terimakasih.
